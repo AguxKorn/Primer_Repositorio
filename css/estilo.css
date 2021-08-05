@@ -241,11 +241,6 @@ footer #copy {
     transition: 1s;
 }
 
-.cuatroSegundos:hover {
-    transform: scale(1.2, 1.2);
-    transition: 1s;
-}
-
 .cuatroSegundos {
     width: 20%;
     margin: 15px;
@@ -255,6 +250,43 @@ footer #copy {
     background-color: cornsilk;
     color: #1e3799;
     font-family: 'Roboto', sans-serif;
+}
+
+.cuatroSegundos:hover {
+    transform: scale(1.2, 1.2);
+    transition: 1s;
+}
+
+.cuatroTerceros {
+    width: 20%;
+    margin: 15px;
+    text-align: center;
+    line-height: 20px;
+    border: 2px solid black;
+    background-color: cornsilk;
+    color: #1e3799;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cuatroTerceros:hover {
+    transform: scale(1.2, 1.2);
+    transition: 1s;
+}
+
+.ultimoCD {
+    width: 20%;
+    margin: 15px;
+    text-align: center;
+    line-height: 20px;
+    border: 2px solid black;
+    background-color: cornsilk;
+    color: #1e3799;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ultimoCD:hover {
+    transform: scale(1.2, 1.2);
+    transition: 1s;
 }
 
 
